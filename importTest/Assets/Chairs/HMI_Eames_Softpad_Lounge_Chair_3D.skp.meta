@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 0b1fb2b1854f0a84fbbb68d4bb5fd1cb
+timeCreated: 1439588938
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7f8a6ad559f918e0ddb8beda1c04a6be
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.74952459, y: 1.60274422, z: -1.53425884}
+      lookAt: {x: 1.31477344, y: 1.22072554, z: -1.04352927}
+      up: {x: -.333855361, y: .864019871, z: .376842529}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 1.74952459, y: 1.60274422, z: -1.53425884}
+        lookAt: {x: 1.31477344, y: 1.22072554, z: -1.04352927}
+        up: {x: -.333855361, y: .864019871, z: .376842529}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LCESOT
+    100004: LSLADT
+    400000: //RootNode
+    400002: LCESOT
+    400004: LSLADT
+    2300000: LCESOT
+    2300002: LSLADT
+    3300000: LCESOT
+    3300002: LSLADT
+    4300000: Mesh LSLADT
+    4300002: Mesh LCESOT
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

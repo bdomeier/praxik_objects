@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 8bcd92cc4f7a9744a843904330c67612
+timeCreated: 1439588970
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000600000007000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 65a01a256886883d1a35db66b3c23544
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: .891068161, y: .782809615, z: -.883922279}
+      lookAt: {x: -1.2890265, y: -.307237715, z: 1.29617238}
+      up: {x: -.235702261, y: .942809045, z: .235702261}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: .891068161, y: .782809615, z: -.883922279}
+        lookAt: {x: -1.2890265, y: -.307237715, z: 1.29617238}
+        up: {x: -.235702261, y: .942809045, z: .235702261}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BASE
+    100002: //RootNode
+    100004: ROCKER
+    100006: SEAT
+    100008: skp62AD
+    400000: BASE
+    400002: //RootNode
+    400004: ROCKER
+    400006: SEAT
+    400008: skp62AD
+    2300000: BASE
+    2300002: ROCKER
+    2300004: SEAT
+    3300000: BASE
+    3300002: ROCKER
+    3300004: SEAT
+    4300000: Mesh BASE
+    4300002: Mesh ROCKER
+    4300004: Mesh SEAT
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
